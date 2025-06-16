@@ -290,19 +290,19 @@ const DietaryPreferences = () => {
                             <FormControl>
                               <RadioGroupItem value="low" />
                             </FormControl>
-                            <FormLabel className="cursor-pointer">Low (less than 4 cups of water per day)</FormLabel>
+                            <FormLabel className="cursor-pointer">Low (less than 4 liter  of water per day)</FormLabel>
                           </FormItem>
                           <FormItem className="flex items-center space-x-3 space-y-0">
                             <FormControl>
                               <RadioGroupItem value="moderate" />
                             </FormControl>
-                            <FormLabel className="cursor-pointer">Moderate (4-6 cups of water per day)</FormLabel>
+                            <FormLabel className="cursor-pointer">Moderate (4-6 liter  of water per day)</FormLabel>
                           </FormItem>
                           <FormItem className="flex items-center space-x-3 space-y-0">
                             <FormControl>
                               <RadioGroupItem value="high" />
                             </FormControl>
-                            <FormLabel className="cursor-pointer">High (more than 6 cups of water per day)</FormLabel>
+                            <FormLabel className="cursor-pointer">High (more than 6 liter  of water per day)</FormLabel>
                           </FormItem>
                         </RadioGroup>
                       </FormControl>
